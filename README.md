@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/elkinny/VD-project/dev/readme_imgs/VD_logo.png" alt="VD-logo" width="100">  </div>
+
 <h1 align="center">Slender</h1>
 
 <div align="center">
