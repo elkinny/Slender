@@ -44,7 +44,7 @@ npm run game
 * [Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/) - A first-person engine in 265 lines
 
 ## Co-author
-* **Victoria Budyonnaya** - *A beast when it comes to html and beauty* - [Elkinny](https://github.com/elkinny)
+* **Dmitry White** - *A beast when it comes to JS and logic* - [Dmitry-White](https://github.com/Dmitry-White)
 
 ## License
 This project is licensed under the MIT License
