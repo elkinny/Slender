@@ -25,9 +25,9 @@
   A pseudo 3D game with HTML5 Canvas, CoreJS and Raycasting
   <br/>
   <br/>
-  <img width="200" height="107" src="img/screens/img1.jpg" />
-  <img width="200" height="107" src="img/screens/img2.jpg" />
-  <img width="200" height="107" src="img/screens/img3.jpg" />
+  <img width="270" src="img/screens/img1.jpg" />
+  <img width="270" src="img/screens/img2.jpg" />
+  <img width="270" src="img/screens/img3.jpg" />
 </div>
 
 ## Story
