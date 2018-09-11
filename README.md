@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/elkinny/VD-project/dev/readme_imgs/VD_logo.png" alt="VD-logo" width="100"> </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/elkinny/Slender/master/slender-logo.png" alt="VD-logo" width="500">
-</div>
-
+  
 <div align="center">
   <sub>Slender Impostors Team. Making creepy stuff that makes you kill yourself... laughing :)</sub>
+</div>
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/elkinny/Slender/master/slender-logo.png" alt="VD-logo" width="500">
 </div>
 
 <br/>
